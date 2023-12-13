@@ -1,0 +1,8 @@
+{
+  "max_process": 1,
+  "max_cpu": 70,
+  "run_mode": "normal",
+  "Manager_lst": ["127.0.0.1"],
+  "WorkHubIP": "127.0.0.1",
+  "WorkHubPort": "55555"
+}
